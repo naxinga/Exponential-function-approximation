@@ -2,7 +2,7 @@
 
 I am Ignacio and this is the solution of Exponential function approximation challenge.
 
-This program is built on ReactJS you can open it running "npm start" in your console.
+This program is built on ReactJS you can open it running "cd my-app" and "npm start" in your console.
 
 The 1st view is something like that:
 
