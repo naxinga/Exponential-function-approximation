@@ -6,14 +6,14 @@ This program is built on ReactJS you can open it running "cd my-app" and "npm st
 
 The 1st view is something like that:
 
-![Main](https://user-images.githubusercontent.com/104234469/198013759-997d8c3d-318f-4cfe-99aa-592da3b67988.PNG)
+![Main](https://user-images.githubusercontent.com/104234469/198018471-f01eda72-e248-48eb-bdcc-0a2330883953.PNG)
 
 Now we need to set x and n:
 
-![image](https://user-images.githubusercontent.com/104234469/198014388-d2e560b1-6668-485c-bdb0-791e056ef10c.png)
+![Main](https://user-images.githubusercontent.com/104234469/198018623-b105e56f-4f59-440a-9912-391a9a8dbacb.PNG)
 
 Click on calculate and see the result!
 
-![image](https://user-images.githubusercontent.com/104234469/198014493-bed84b21-f0c2-49aa-8353-1122233af04f.png)
+![image](https://user-images.githubusercontent.com/104234469/198018675-5ffbb4d4-e6eb-490f-9a72-7908b86f0405.png)
 
 Thats all!
