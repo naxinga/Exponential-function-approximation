@@ -51,9 +51,9 @@ function App() {
         onChange={(e) => setX(e.target.value)}> 
         </input>
         <p>
-          Set y
+          Set n
         </p>
-        <input placeholder='Set y'
+        <input placeholder='Set n'
         onChange={(e) => setN(e.target.value)}>
         </input>
         <p>
