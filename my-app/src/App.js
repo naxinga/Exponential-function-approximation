@@ -62,7 +62,7 @@ function App() {
           <span>Calculate</span>
         </button>
         </p>
-        <p>{fin}</p>
+        {fin === "" ?<p></p>: <p> Result: {fin}</p> }
         </>
     </div>
   );
